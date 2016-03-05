@@ -281,3 +281,7 @@ Partie,Nb joueurs,Date,Extension,Joueur,Ville,Côté,Rouge,Argent,Merveille,Bleu
 65,5,21/02/2016,leaders,L,babylone,a,-5,4,10,0,0,0,38,10,57,4,75%,0
 65,5,21/02/2016,leaders,S,alexandrie,a,15,6,10,17,3,9,1,13,74,1,0%,1
 65,5,21/02/2016,leaders,C,rome,a,-3,3,10,12,7,7,10,6,52,3,50%,0
+66,4,05/03/2016,base,L,babylone,b,11,6,3,13,6,7,0,,46,2,33%,0
+66,4,05/03/2016,base,C,rhodes,a,10,2,10,0,0,8,13,,43,4,100%,0
+66,4,05/03/2016,base,A,halikarnasse,a,4,2,10,13,0,6,13,,48,1,0%,1
+66,4,05/03/2016,base,Y,alexandrie,a,-3,4,10,18,8,8,0,,45,3,67%,0
